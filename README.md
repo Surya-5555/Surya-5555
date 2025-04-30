@@ -25,13 +25,6 @@ While I’m focused on becoming a **Web Developer**, my interests are expanding 
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryapr&show_icons=true&theme=radical" alt="Surya P R's GitHub stats" />
-</p>
-
----
-
 ### 📫 Connect with Me!  
 - [LinkedIn](https://www.linkedin.com/in/surya20075555)  
 - Portfolio *(Coming soon!)*  
