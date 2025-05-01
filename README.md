@@ -26,9 +26,8 @@ While I’m focused on becoming a **Web Developer**, my interests are expanding 
 ---
 
 ### 📫 Connect with Me!  
-- [LinkedIn](https://www.linkedin.com/in/surya20075555)  
-- Portfolio *(Coming soon!)*  
-
+- [LinkedIn](https://www.linkedin.com/in/surya20075555)
+  
 ---
 
 > _"Learning never exhausts the mind." – Leonardo da Vinci_
