@@ -1,33 +1,46 @@
-# 👋 Hey there! I'm Surya P R
+<h1 align="center">Hey there! 👋 I'm Surya P R</h1>
+<h3 align="center">(❁´◡`❁) Software Developer | 🚀 Full-Stack Developer | AI Explorer & Enthusiast</h3>
 
-### 🚀 Aspiring Software Developer | Frontend Enthusiast | AI & ML Explorer
-
----
-
-🌱 **Currently Learning**  
-I'm diving deep into **Frontend Web Development** – sharpening my skills in **HTML**, **CSS**, and **JavaScript**. Building responsive, user-friendly interfaces is my current focus, and I'm loving the process!
-
-🤖 **Future Goals**  
-While I’m focused on becoming a **Web Developer**, my interests are expanding into the exciting world of **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Deep Learning (DL)**. I'm passionate about combining creative frontend experiences with powerful AI-driven technologies.
-
-💡 **About Me**  
-- 🚀 Dedicated learner with a growth mindset  
-- 💻 Enthusiastic about crafting beautiful and functional web applications  
-- 🤖 Curious about the possibilities AI and ML bring to modern software  
-- 🎯 Always up for learning new technologies and taking on challenges  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Sleep-deprived+%E2%9C%85+Code-obsessed+%F0%9F%92%BB;React+%2B+Node+%2B+Flask+lover+%F0%9F%94%A5;Always+debugging+life...+and+code" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🔧 Technologies & Tools  
-- 🌐 Frontend: HTML, CSS, JavaScript  
-- 🌱 Currently exploring: React, Tailwind CSS  
-- 🧠 Interested in: Python (for ML & DL), TensorFlow, PyTorch  
+### 🔧 Tech Stack I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,mongodb,flask,python,vite,html,css,tailwind,vscode,git,github" />
+</p>
 
 ---
 
-### 📫 Connect with Me!  
-- [LinkedIn](https://www.linkedin.com/in/surya20075555)
-  
+### 🧠 Fun Developer Facts
+
+- ☕ Runs on caffeine and chaotic ideas
+- 🎯 Current Focus: AI Career Coach, RougeNetX
+- 🤖 Built chatbots, dashboards, sensors & more
+- 🧩 I debug in my sleep. Sometimes successfully.
+
 ---
 
-> _"Learning never exhausts the mind." – Leonardo da Vinci_
+### 🛠 IDEs & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-4526ff?style=for-the-badge&logo=clerk&logoColor=white" />
+</p>
+
+---
+
+### 🔗 Let’s Connect
+
+<p align="center">
+  <a href="https://github.com/surya-5555"><img src="https://img.shields.io/badge/GitHub-171515.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/surya20075555"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:suryaravichandran5555@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
