@@ -15,14 +15,6 @@
 
 ---
 
-### 🧠 Fun Developer Facts
-
-- ☕ Runs on caffeine and chaotic ideas
-- 🎯 Current Focus: AI Career Coach, RougeNetX
-- 🤖 Built chatbots, dashboards, sensors & more
-- 🧩 I debug in my sleep. Sometimes successfully.
-
----
 
 ### 🛠 IDEs & Tools
 
