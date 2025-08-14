@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clerk-4526ff?style=for-the-badge&logo=clerk&logoColor=white" />
 </p>
 
 ---
