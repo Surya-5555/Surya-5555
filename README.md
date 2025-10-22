@@ -1,37 +1,39 @@
-<h1 align="center">Hey there! 👋 I'm Surya P R</h1>
-<h3 align="center">(❁´◡`❁) Software Developer | 🚀 Full-Stack Developer | AI Explorer & Enthusiast</h3>
+# Hey there! 👋 I'm Surya P R
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Sleep-deprived+%E2%9C%85+Code-obsessed+%F0%9F%92%BB;React+%2B+Node+%2B+Flask+lover+%F0%9F%94%A5;Always+debugging+life...+and+code" alt="Typing SVG" />
-</p>
+**Software Developer | Full-Stack Developer | AI Enthusiast**
 
----
-
-### 🔧 Tech Stack I Work With
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,mongodb,flask,python,vite,html,css,tailwind,vscode,git,github" />
-</p>
+I'm a developer based in Coimbatore, passionate about building web applications and exploring AI technologies. I enjoy working across the full stack and bringing ideas to life through code.
 
 ---
 
+##  Tech Stack
 
-### 🛠 IDEs & Tools
+**Frontend:**  
+JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS, Vite
 
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+**Backend:**  
+Node.js, Flask, Python
+
+**Database & Tools:**  
+MongoDB, Git, GitHub, VS Code, Postman
+
+---
+
+##  What I Do
+
+- Building responsive web applications with React and Next.js
+- Developing backend services with Node.js and Flask
+- Working with modern development tools and workflows
+- Exploring AI/ML integrations in web applications
 
 ---
 
-### 🔗 Let’s Connect
+##  Let's Connect
 
-<p align="center">
-  <a href="https://github.com/surya-5555"><img src="https://img.shields.io/badge/GitHub-171515.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/surya20075555"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:suryaravichandran5555@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+- **GitHub:** [surya-5555](https://github.com/surya-5555)
+- **LinkedIn:** [surya20075555](https://www.linkedin.com/in/surya20075555)
+- **Email:** suryaravichandran5555@gmail.com
 
 ---
+
+*Always learning, always building.* 
